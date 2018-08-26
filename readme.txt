@@ -1,0 +1,1 @@
+this app gives the decimal,hexadecimal or binary equivalent of any number between and including 0-255
